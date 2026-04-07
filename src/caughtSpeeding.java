@@ -1,6 +1,5 @@
 public class caughtSpeeding {
     public static void main(String[] args) {
-        // This will now correctly print '1'
         System.out.println(caughtSpeeding(66, false));
     }
 
