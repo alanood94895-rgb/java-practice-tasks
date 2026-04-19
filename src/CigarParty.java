@@ -1,6 +1,6 @@
 public class CigarParty {
     public static void main(String[] args) {
-        System.out.println(cigarParty(70, false));
+        System.out.println(cigarParty(70, false));   // Test the cigarParty method
     }
 
     public static boolean cigarParty(int cigars, boolean isWeekend) {
