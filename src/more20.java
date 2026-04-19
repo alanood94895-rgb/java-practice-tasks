@@ -1,6 +1,6 @@
 public class more20 {
     public static void main(String[] args) {
-        System.out.println(more20(20)); // false
+        System.out.println(more20(20)); // False
     }
 
     public static boolean more20(int n) {
