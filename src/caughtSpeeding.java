@@ -1,6 +1,6 @@
 public class caughtSpeeding {
     public static void main(String[] args) {
-        System.out.println(caughtSpeeding(66, false));
+        System.out.println(caughtSpeeding(66, false));  // Test the caughtSpeeding method
     }
 
     public static int caughtSpeeding(int speed, boolean isBirthday) {
