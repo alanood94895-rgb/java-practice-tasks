@@ -1,6 +1,6 @@
 public class love6 {
     public static void main(String[] args) {
-        System.out.println(love6(6, 4));
+        System.out.println(love6(6, 4));  // Test the love6 method
 
     }
 
